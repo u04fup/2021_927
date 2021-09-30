@@ -16,9 +16,31 @@ ___
 2. Another item
   * Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+   1. Ordered sub-list
    2. 2nd
 4. And another item.
    * note 1
    * note 2
-   *** note 3    
+   * note 3  
+___
+- [ ] todo list
+- [ ] 2nd things
+___
+python code
+```python
+ s = "Python syntax highlighting"
+ print s
+```
+___
+javascript code
+```js
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
+___
+Colons can be used to align columns.
+|Tables|Are|Cool|
+|:-|:-:|-:|
+|col 3 is|right-aligned|$1600|
+|col 2 is|centered|$12|
+|zebra stripes|are neat|$1|
