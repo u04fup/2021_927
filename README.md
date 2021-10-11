@@ -54,7 +54,8 @@ ___
 |Still|`renders`|nicely|
 |1|2|3|
 ___
-PERT/CPM
+ # PERT/CPM
 ![PERT/CPM](https://raw.githubusercontent.com/u04fup/SystemAnalysisAndDesign/main/PERT_CPM.JPG)
-甘特圖
+___
+ # 甘特圖
 ![Gantt Chart](https://raw.githubusercontent.com/u04fup/SystemAnalysisAndDesign/main/Gantt%20Chart.JPG)
